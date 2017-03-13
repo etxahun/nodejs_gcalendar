@@ -65,5 +65,5 @@ $node client.py
 ## References
 
 The following is a list of useful references used for the development of the application:
-* [Google Calendar API with Python](https://developers.google.com/google-apps/calendar/quickstart/python)
+* [Google Calendar API with NodeJS](https://developers.google.com/google-apps/calendar/quickstart/nodejs)
 * [Google Calendar API](https://developers.google.com/apis-explorer/#s/calendar/v3/)
