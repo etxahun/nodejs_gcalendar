@@ -1,0 +1,29 @@
+{
+  "name": "gcalendar_client",
+  "version": "1.0.0",
+  "description": "Simple Node.js command-line application that makes requests to the Google Calendar API.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etxahun/nodejs_gcalendar.git"
+  },
+  "author": "Etxahun Sanchez Bazterretxea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etxahun/nodejs_gcalendar/issues"
+  },
+  "keywords": [
+    "Google",
+    "Google API",
+    "Google Calendar API",
+    "NodeJS"
+  ],
+  "homepage": "https://github.com/etxahun/nodejs_gcalendar#readme",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^18.0.0"
+  }
+}
