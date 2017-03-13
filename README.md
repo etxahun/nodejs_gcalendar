@@ -18,8 +18,8 @@ To run this application, you'll need:
 
 Run the following commands to install the libraries using npm:
 ```shell
-npm install googleapis --save
-npm install google-auth-library --save
+$npm install googleapis --save
+$npm install google-auth-library --save
 ```
 
 ## Configuration
